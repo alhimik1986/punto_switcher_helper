@@ -1,2 +1,2 @@
 F+J Alt+Shift
-U+R PAUSE
+D+K PAUSE
